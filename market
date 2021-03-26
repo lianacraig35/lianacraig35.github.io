@@ -1,0 +1,119 @@
+{
+  "list": [
+    {
+      "downup": -0.0093, 
+      "highest": 53667.747, 
+      "price": 52426.536, 
+      "slug": "BTC"
+    }, 
+    {
+      "downup": 0.02, 
+      "highest": 1633.2266, 
+      "price": 1629.5774, 
+      "slug": "ETH"
+    }, 
+    {
+      "downup": 0.0516, 
+      "highest": 1.1591435, 
+      "price": 1.1279626, 
+      "slug": "ADA"
+    }, 
+    {
+      "downup": 0.09, 
+      "highest": 0.53862067, 
+      "price": 0.536869, 
+      "slug": "XRP"
+    }, 
+    {
+      "downup": -0.0007, 
+      "highest": 179.6529083251953, 
+      "price": 177.96819, 
+      "slug": "LTC"
+    }, 
+    {
+      "downup": 0.0039, 
+      "highest": 31.37788773, 
+      "price": 30.56417, 
+      "slug": "DOT"
+    }, 
+    {
+      "downup": 0.0128, 
+      "highest": 486.90484, 
+      "price": 482.83079, 
+      "slug": "BCH"
+    }, 
+    {
+      "downup": 0.1816, 
+      "highest": 13.702663, 
+      "price": 13.267978, 
+      "slug": "THETA"
+    }, 
+    {
+      "downup": -0.0013, 
+      "highest": 1.0051135, 
+      "price": 1.0038304, 
+      "slug": "USDT"
+    }, 
+    {
+      "downup": 0.0716, 
+      "highest": 96.215175, 
+      "price": 94.232631, 
+      "slug": "FIL"
+    }, 
+    {
+      "downup": -0.0333, 
+      "highest": 250.03758, 
+      "price": 240.00079, 
+      "slug": "BNB"
+    }, 
+    {
+      "downup": 0.0353, 
+      "highest": 26.784935, 
+      "price": 26.080568, 
+      "slug": "LINK"
+    }, 
+    {
+      "downup": -0.0096, 
+      "highest": 28.103791, 
+      "price": 27.334268, 
+      "slug": "UNI"
+    }, 
+    {
+      "downup": 0.0144, 
+      "highest": 0.05269453, 
+      "price": 0.052502189, 
+      "slug": "DOGE"
+    }, 
+    {
+      "downup": -0.0193, 
+      "highest": 0.0866144, 
+      "price": 0.083208784, 
+      "slug": "VET"
+    }, 
+    {
+      "downup": 0.0183, 
+      "highest": 0.37439308, 
+      "price": 0.37143261, 
+      "slug": "XLM"
+    }, 
+    {
+      "downup": 0.001, 
+      "highest": 1.0089806, 
+      "price": 1.0066886, 
+      "slug": "USDC"
+    }, 
+    {
+      "downup": -0.007, 
+      "highest": 17.267799, 
+      "price": 16.664525, 
+      "slug": "LUNA"
+    }, 
+    {
+      "downup": -0.0077, 
+      "highest": 53546.906, 
+      "price": 52534.946, 
+      "slug": "WBTC"
+    }
+  ], 
+  "status": 200
+}
